@@ -1,0 +1,92 @@
+_repo: Christianity-and-Modern-Thought_41280
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Coquerel, Athanase
+    alias: Coquerel, A. (Athanase)
+    birthdate: 1820
+    deathdate: 1875
+    gutenberg_agent_id: '40670'
+    url: http://www.gutenberg.org/2009/agents/40670
+  - agent_name: Martineau, James
+    birthdate: &id002 1805
+    deathdate: &id001 1900
+    gutenberg_agent_id: '40587'
+    url: http://www.gutenberg.org/2009/agents/40587
+    wikipedia: http://en.wikipedia.org/wiki/James_Martineau
+  - agent_name: Stearns, Oliver
+    birthdate: 1807
+    deathdate: 1885
+    gutenberg_agent_id: '41011'
+    url: http://www.gutenberg.org/2009/agents/41011
+  - agent_name: Everett, Charles Carroll
+    alias: Everett, C. C. (Charles Carroll)
+    birthdate: 1829
+    deathdate: *id001
+    gutenberg_agent_id: '44524'
+    url: http://www.gutenberg.org/2009/agents/44524
+  - agent_name: Smith, George Vance
+    alias: Smith, G. Vance (George Vance)
+    deathdate: 1902
+    gutenberg_agent_id: '45323'
+    url: http://www.gutenberg.org/2009/agents/45323
+  - agent_name: Dewey, Orville
+    birthdate: 1794
+    deathdate: &id003 1882
+    gutenberg_agent_id: '8364'
+    url: http://www.gutenberg.org/2009/agents/8364
+    wikipedia: http://en.wikipedia.org/wiki/Orville_Dewey
+  - agent_name: Hedge, Frederic Henry
+    alias: Hedge, F. H. (Frederic Henry)
+    birthdate: *id002
+    deathdate: 1890
+    gutenberg_agent_id: '42661'
+    url: http://www.gutenberg.org/2009/agents/42661
+  - agent_name: Clarke, James Freeman
+    alias: Clarke, J. F. (James Freeman)
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '5630'
+    url: http://www.gutenberg.org/2009/agents/5630
+    wikipedia: http://en.wikipedia.org/wiki/James_Freeman_Clarke
+  - agent_name: Bellows, Henry W. (Henry Whitney)
+    alias: Bellows, Henry Whitney
+    birthdate: 1814
+    deathdate: *id003
+    gutenberg_agent_id: '24930'
+    url: http://www.gutenberg.org/2009/agents/24930
+  - agent_name: Peabody, Andrew P. (Andrew Preston)
+    aliases:
+    - Peabody, Andrew Preston
+    - Peabody, A. P. (Andrew Preston)
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '32751'
+    url: http://www.gutenberg.org/2009/agents/32751
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Preston_Peabody
+description: ''
+gutenberg_issued: '2012-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41280'
+  lccn: '16007479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unitarianism'
+- !lcc 'BX'
+tableOfContents: 'Break between modern thought and ancient faith and worship / H.W.
+  Bellows -- A true theology the basis of human progress / J.F. Clarke -- The rise
+  and decline of the Romish church / A. Coquerel, fils -- Selfhood and sacrifice /
+  O. Dewey -- The relation of Jesus to the present age / C.C. Everett -- The mythical
+  element in the New Testament / F.H. Hedge -- The place of mind in nature and intuition
+  in man / J. Martineau -- The relations of ethics and theology / A.P. Peabody --
+  Christianity: what it is not, and what it is / G.V. Smith -- The aim and hope of
+  Jesus / O. Stearns.'
+title: Christianity and Modern Thought
+url: http://www.gutenberg.org/ebooks/41280
