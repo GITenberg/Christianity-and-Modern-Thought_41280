@@ -12,8 +12,8 @@ creator:
     gutenberg_agent_id: '40670'
     url: http://www.gutenberg.org/2009/agents/40670
   - agent_name: Martineau, James
-    birthdate: &id002 1805
-    deathdate: &id001 1900
+    birthdate: 1805
+    deathdate: 1900
     gutenberg_agent_id: '40587'
     url: http://www.gutenberg.org/2009/agents/40587
     wikipedia: http://en.wikipedia.org/wiki/James_Martineau
@@ -25,7 +25,7 @@ creator:
   - agent_name: Everett, Charles Carroll
     alias: Everett, C. C. (Charles Carroll)
     birthdate: 1829
-    deathdate: *id001
+    deathdate: 1900
     gutenberg_agent_id: '44524'
     url: http://www.gutenberg.org/2009/agents/44524
   - agent_name: Smith, George Vance
@@ -35,13 +35,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45323
   - agent_name: Dewey, Orville
     birthdate: 1794
-    deathdate: &id003 1882
+    deathdate: 1882
     gutenberg_agent_id: '8364'
     url: http://www.gutenberg.org/2009/agents/8364
     wikipedia: http://en.wikipedia.org/wiki/Orville_Dewey
   - agent_name: Hedge, Frederic Henry
     alias: Hedge, F. H. (Frederic Henry)
-    birthdate: *id002
+    birthdate: 1805
     deathdate: 1890
     gutenberg_agent_id: '42661'
     url: http://www.gutenberg.org/2009/agents/42661
@@ -55,7 +55,7 @@ creator:
   - agent_name: Bellows, Henry W. (Henry Whitney)
     alias: Bellows, Henry Whitney
     birthdate: 1814
-    deathdate: *id003
+    deathdate: 1882
     gutenberg_agent_id: '24930'
     url: http://www.gutenberg.org/2009/agents/24930
   - agent_name: Peabody, Andrew P. (Andrew Preston)
@@ -68,6 +68,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32751
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Preston_Peabody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41280#Christianity-and-Modern-Thought
 gutenberg_issued: '2012-11-03'
 gutenberg_type: Text
 identifiers:
